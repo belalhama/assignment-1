@@ -1,0 +1,2 @@
+Hello from notes.txt!
+This is a sample note file used by assignment2.js.
